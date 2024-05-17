@@ -1,4 +1,6 @@
-# Tic Tac Toe Game
+# [Tic Tac Toe Game](xic-xac-xoe.netlify.app)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b50e740-a3d6-4535-96ae-9277ea79a428/deploy-status)](https://app.netlify.com/sites/xic-xac-xoe/deploys)
 
 A modern Tic Tac Toe game built with Next.js and TypeScript.
 
